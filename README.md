@@ -23,7 +23,7 @@
 ## 📚 Collaboration
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Teams-F24E1E?style=for-the-badge&logo=Teams&logoColor=white"/>
-<img src="https://img.shields.io/badge/loof-4A154B?style=for-the-badge&logo=loof&logoColor=white"/>
+<img src="https://img.shields.io/badge/loop-4A154B?style=for-the-badge&logo=loop&logoColor=white"/>
 
 <hr>
 <br>
