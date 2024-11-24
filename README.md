@@ -24,9 +24,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Teams-F24E1E?style=for-the-badge&logo=Teams&logoColor=white"/>
 <img src="https://img.shields.io/badge/loop-4A154B?style=for-the-badge&logo=loop&logoColor=white"/>
-
-<hr>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=dys93&show_icons=true&locale=en" alt="dys93" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dys93&show_icons=true&locale=en&layout=compact" alt="dys93" />
-</div>
